@@ -15,7 +15,8 @@ body {
   font-size: 16px;
   line-height: 20px;
   letter-spacing: 0.2em;
-  background: linear-gradient(180deg, #392657 0%, rgba(57, 38, 87, 0.8) 100%);
+  background: rgb(45,38,136);
+  background: linear-gradient(0deg, rgba(45,38,136,1) 0%, rgba(42,151,173,1) 100%);
   color: #ffffff;
 }
 
